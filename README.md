@@ -1,11 +1,15 @@
 <div align="center">
-<img src="./assets/banner.png" width="100%" alt="Banner"/>
-<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00F5FF,50:7B2FF7,100:FF0080&height=180&section=header&text=ARUN%20M&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI%20&%20Data%20Science%20Undergraduate%20|%20Java%20&%20ML%20Developer&descSize=16&descAlignY=60" width="100%" alt="Banner"/>
+
 <br><br>
+
 <img src="https://komarev.com/ghpvc/?username=arun1512006-bot&label=PROFILE+VIEWS&style=for-the-badge&color=7B2FF7"/>
 <img src="https://img.shields.io/github/followers/arun1512006-bot?style=for-the-badge&color=00C853&labelColor=1a1b27"/>
 <img src="https://img.shields.io/github/stars/arun1512006-bot?style=for-the-badge&color=FFC107&labelColor=1a1b27"/>
+
 <br><br>
+
 <a href="mailto:arun1512006@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -18,6 +22,7 @@
 <a href="https://leetcode.com/u/Arun_638095">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
+
 </div>
 
 <div align="center">
@@ -25,7 +30,7 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/240885145-0bcf0d3b-5d8e-4d5f-a13e-f50d12d5c9b8.gif" width="700"/>
+<img src="https://user-images.githubusercontent.com/74038190/221384078-0138d2f5-961e-4ee2-ab69-d59660db3c8d.gif" width="600"/>
 </div>
 
 # 👨‍💻 About Me
@@ -53,9 +58,9 @@ Leverage software engineering, machine learning, and problem-solving skills in a
 
 </td>
 <td width="40%" align="center">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="220"/>
 <br><br>
-<h3>🚀 Analyze • Build • Secure</h3>
+<h3>🤖 Analyze • Build • Secure</h3>
 </td>
 </tr>
 </table>
@@ -128,7 +133,6 @@ Leverage software engineering, machine learning, and problem-solving skills in a
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
 </div>
-
 
 
 # 💖 Thanks for Visiting
