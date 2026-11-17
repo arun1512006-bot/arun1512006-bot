@@ -5,7 +5,7 @@
 
 <!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=arun1512006-bot&label=Profile%2520Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=arun1512006-bot&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <a href="https://linkedin.com/in/arun-m-11171a35a">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -21,13 +21,13 @@
 
 ---
 
-### 👨‍💻 About Me[cite: 1]
+### 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at V.S.B College of Engineering Technical Campus (CGPA: `8.3`)[cite: 1].
-- 🔬 Hands-on experience across **Machine Learning**[cite: 1], **Digital Forensics**[cite: 1], **Information Security**[cite: 1], and **IoT Robotics**[cite: 2].
-- 🏆 **1st Place Winner** at the National Paper Presentation (Kottayam, Kerala)[cite: 2] & **Patent Applicant** for *Intelligent Temperature Forecasting with Swarm-Based LSTM*[cite: 2].
-- 💡 Passionate about writing clean, efficient code in **Java**[cite: 1], **Python**[cite: 1], and **SQL**[cite: 1], and solving algorithmic challenges on LeetCode[cite: 1].
-- 📍 Based in **Tirupur, Tamil Nadu, India**[cite: 1].
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at V.S.B College of Engineering Technical Campus (CGPA: `8.3`).
+- 🔬 Hands-on experience across **Machine Learning**, **Digital Forensics**, **Information Security**, and **IoT Robotics**.
+- 🏆 **1st Place Winner** at the National Paper Presentation (Kottayam, Kerala) & **Patent Applicant** for *Intelligent Temperature Forecasting with Swarm-Based LSTM*.
+- 💡 Passionate about writing clean, efficient code in **Java**, **Python**, and **SQL**, and solving algorithmic challenges on LeetCode.
+- 📍 Based in **Tirupur, Tamil Nadu, India**.
 
 ---
 
@@ -54,11 +54,11 @@
 
 ### 💼 Experience & Internships
 
-- **Artificial Intelligence Intern** | *Emglitz Technologies, Coimbatore* `(Feb 2024 – Mar 2024)`[cite: 1]
-  - Built and deployed end-to-end machine learning workflows on real-world datasets using Python[cite: 1].
-  - Handled data preprocessing, feature engineering, model training, and performance evaluation[cite: 1].
-- **Forensic Support & Law & Order Intern** | *D1 Ramanathapuram Police Station & Mobile Forensic Science Lab* `(Feb 2025 – Mar 2025)`[cite: 1]
-  - Assisted in digital forensic lab procedures, fingerprint analysis, and Law & Order operational workflows[cite: 1].
+- **Artificial Intelligence Intern** | *Emglitz Technologies, Coimbatore* `(Feb 2024 – Mar 2024)`
+  - Built and deployed end-to-end machine learning workflows on real-world datasets using Python.
+  - Handled data preprocessing, feature engineering, model training, and performance evaluation.
+- **Forensic Support & Law & Order Intern** | *D1 Ramanathapuram Police Station & Mobile Forensic Science Lab* `(Feb 2025 – Mar 2025)`
+  - Assisted in digital forensic lab procedures, fingerprint analysis, and Law & Order operational workflows.
 
 ---
 
@@ -66,19 +66,19 @@
 
 | Project | Tech Stack | Key Highlights |
 | :--- | :--- | :--- |
-| **🔐 Secure Data Encryption & Access Control System** *(Jan 2026)*[cite: 1] | `AES-256`, `RBAC`, `MySQL`, `API`[cite: 1, 2] | Enterprise file security platform with time-bound permissions, cryptographic data shredding upon expiration, and real-time MySQL audit logging[cite: 1, 2]. |
-| **🤖 Bluetooth RC Assistive Robot for Mobility Aid** *(Nov 2025)*[cite: 2] | `Java`, `Bluetooth`, `Embedded/Hardware`[cite: 2] | Compact assistive robot controlled via a custom mobile app with low-latency signal processing and hardware motor safety controls for elderly users[cite: 2]. |
+| **🔐 Secure Data Encryption & Access Control System** *(Jan 2026)* | `AES-256`, `RBAC`, `MySQL`, `API` | Enterprise file security platform with time-bound permissions, cryptographic data shredding upon expiration, and real-time MySQL audit logging. |
+| **🤖 Bluetooth RC Assistive Robot for Mobility Aid** *(Nov 2025)* | `Java`, `Bluetooth`, `Embedded/Hardware` | Compact assistive robot controlled via a custom mobile app with low-latency signal processing and hardware motor safety controls for elderly users. |
 
 ---
 
 ### 🏆 Achievements & Certifications
 
-- 📜 **Patent Application (2025):** *Intelligent Temperature Forecasting with Swarm-Based LSTM in Big Data Analytics*[cite: 2]
-- 🥇 **1st Place – Paper Presentation (Jan 2025):** Presented *Secure Data Encryption & Access Control System* at Gregorian Institute of Technology, Kottayam, Kerala[cite: 2].
+- 📜 **Patent Application (2025):** *Intelligent Temperature Forecasting with Swarm-Based LSTM in Big Data Analytics*
+- 🥇 **1st Place – Paper Presentation (Jan 2025):** Presented *Secure Data Encryption & Access Control System* at Gregorian Institute of Technology, Kottayam, Kerala.
 - 🎓 **Certifications:**
-  - *Internet of Things (IoT)* – NPTEL (2026)[cite: 2]
-  - *Cloud Computing* – NPTEL (2025)[cite: 2]
-  - *Artificial Intelligence* – Internz Learn Technologies (2025)[cite: 2]
+  - *Internet of Things (IoT)* – NPTEL (2026)
+  - *Cloud Computing* – NPTEL (2025)
+  - *Artificial Intelligence* – Internz Learn Technologies (2025)
 
 ---
 
@@ -104,16 +104,16 @@
 
 ---
 
-### 🌳 Contribution Graph & Snake Animation
+### 🌲 Growing Technology Tree & Contribution Graph
 
 <div align="center">
 
-<!-- Interactive Contribution Graph -->
+<!-- Interactive Contribution Graph matching the theme -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arun1512006-bot&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
-<br/>
+<br/><br/>
 
-<!-- Contribution Snake -->
+<!-- Growing Technology Tree / Snake Animation Widget -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/output/github-contribution-grid-snake.svg" />
