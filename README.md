@@ -29,10 +29,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
 </div>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Robot.png" width="220"/>
-</div>
-
 # 👨‍💻 About Me
 
 <table>
@@ -58,9 +54,9 @@ Leverage software engineering, machine learning, and problem-solving skills in a
 
 </td>
 <td width="40%" align="center">
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Robot.png" width="220"/>
 <br><br>
-<h3>🚀 Analyze • Build • Secure</h3>
+<h3>🤖 Analyze • Build • Secure</h3>
 </td>
 </tr>
 </table>
@@ -122,13 +118,24 @@ Leverage software engineering, machine learning, and problem-solving skills in a
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
 </div>
 
-
-
-# 📊 GitHub Analytics & Statistics
+# 🌲 GitHub Contribution Growing Tree & Activity Graph
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arun1512006-bot&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arun1512006-bot&theme=tokyonight&hide_border=true"/>
+
+<!-- Interactive Activity Graph matching tokyonight theme -->
+<a href="https://github.com/arun1512006-bot" target="_blank">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arun1512006-bot&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</a>
+
+<br><br>
+
+<!-- Growing Snake Contribution Tree Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 <div align="center">
