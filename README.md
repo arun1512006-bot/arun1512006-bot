@@ -117,17 +117,6 @@ Leverage software engineering, machine learning, and problem-solving skills in a
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
 </div>
 
-# 🧩 LeetCode & Competitive Programming
-
-<div align="center">
-<a href="https://leetcode.com/u/Arun_638095" target="_blank">
-<img src="https://leetcard.jacoblin.cool/Arun_638095?theme=tokyonight&font=Fira%20Code&ext=heatmap"/>
-</a>
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-</div>
 
 # 📊 GitHub Analytics & Statistics
 
