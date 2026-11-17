@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00F5FF,50:7B2FF7,100:FF0080&height=180&section=header&text=ARUN%20M&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI%20&%20Data%20Science%20Undergraduate%20|%20Java%20&%20ML%20Developer&descSize=16&descAlignY=60" width="100%" alt="Banner"/>
+<img src="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/main/assets/banner.png" width="100%" alt="Banner"/>
 
 <br><br>
 
@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/221384078-0138d2f5-961e-4ee2-ab69-d59660db3c8d.gif" width="600"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Robot.png" width="220"/>
 </div>
 
 # 👨‍💻 About Me
@@ -58,9 +58,9 @@ Leverage software engineering, machine learning, and problem-solving skills in a
 
 </td>
 <td width="40%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" width="220"/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 <br><br>
-<h3>🤖 Analyze • Build • Secure</h3>
+<h3>🚀 Analyze • Build • Secure</h3>
 </td>
 </tr>
 </table>
@@ -122,6 +122,17 @@ Leverage software engineering, machine learning, and problem-solving skills in a
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
 </div>
 
+# 🧩 LeetCode & Competitive Programming
+
+<div align="center">
+<a href="https://leetcode.com/u/Arun_638095" target="_blank">
+<img src="https://leetcard.jacoblin.cool/Arun_638095?theme=tokyonight&font=Fira%20Code&ext=heatmap"/>
+</a>
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+</div>
 
 # 📊 GitHub Analytics & Statistics
 
@@ -134,6 +145,29 @@ Leverage software engineering, machine learning, and problem-solving skills in a
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
 </div>
 
+# 🌲 GitHub Contribution Graph & Growing Technology Tree
+
+<div align="center">
+
+<!-- Interactive Activity Graph matching tokyonight theme -->
+<a href="https://github.com/arun1512006-bot" target="_blank">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arun1512006-bot&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</a>
+
+<br><br>
+
+<!-- Growing Snake Contribution Tree Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+</div>
 
 # 💖 Thanks for Visiting
 
