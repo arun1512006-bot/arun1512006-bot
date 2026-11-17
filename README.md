@@ -1,34 +1,188 @@
 <div align="center">
+<img src="./assets/banner.png" width="100%" alt="Banner"/>
+<br>
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=arun1512006-bot&label=PROFILE+VIEWS&style=for-the-badge&color=7B2FF7"/>
+<img src="https://img.shields.io/github/followers/arun1512006-bot?style=for-the-badge&color=00C853&labelColor=1a1b27"/>
+<img src="https://img.shields.io/github/stars/arun1512006-bot?style=for-the-badge&color=FFC107&labelColor=1a1b27"/>
+<br><br>
+<a href="mailto:arun1512006@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/arun-m-11171a35a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/arun1512006-bot">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/Arun_638095">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</div>
 
-# 👋 Hi, I'm Arun M
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=750&lines=AI+%26+Data+Science+Undergraduate;Java+%7C+MySQL+%7C+Machine+Learning;Cybersecurity+%26+IoT+Enthusiast" alt="Typing SVG" />
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/240885145-0bcf0d3b-5d8e-4d5f-a13e-f50d12d5c9b8.gif" width="700"/>
+</div>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=arun1512006-bot&label=PROFILE+VIEWS&color=00ffcc&style=for-the-badge" alt="Views" />
-  <a href="https://linkedin.com/in/arun-m-11171a35a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/Arun_638095"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="mailto:arun1512006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+# 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 👋 Hello, I'm Arun M
+
+🎓 **B.Tech Artificial Intelligence & Data Science Undergraduate** (CGPA: **8.3**) at V.S.B College of Engineering Technical Campus.
+
+💻 **AI & Data Modeling Enthusiast** | ☕ **Java Developer** | 🔍 **Digital Forensics & Security Support**
+
+Analytical AI & Data Science undergraduate with hands-on internship experience in data modeling, full-stack web basics, and digital forensic support. Skilled in Java, MySQL, and predictive algorithms.
+
+### 🚀 Focus Areas & Core Competencies
+- 🤖 Predictive Machine Learning & Data Modeling
+- ☕ Java & MySQL Backend Systems
+- 🔐 Enterprise Security & AES-256 / RBAC
+- 🌐 Full-Stack Web Development Basics
+
+### 🎯 Career Goal
+Leverage software engineering, machine learning, and problem-solving skills in a dynamic technical role.
+
+</td>
+<td width="40%" align="center">
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+<br><br>
+<h3>🚀 Analyze • Build • Secure</h3>
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+</div>
+
+# 🛠 Tech Toolbox
+
+<div align="center">
+
+### 💻 Programming Languages & Databases
+<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css" />
+
+<br><br>
+
+### ⚙️ Technologies & Domains
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+</div>
+
+# 💼 Professional Experience & Internships
+
+*   **Artificial Intelligence Intern** | *Emglitz Technologies, Coimbatore* `(Feb 2024 – Mar 2024)`
+    *   Developed and deployed machine learning models using Python on real-world datasets.
+    *   Executed end-to-end ML workflows, including data preprocessing, model training, and evaluation using performance metrics.
+*   **Law & Order & Forensic Support Intern** | *D1 Ramanathapuram Police Station & Mobile Forensic Science Lab, Coimbatore* `(Feb 2025 – Mar 2025)`
+    *   Completed internship in Law & Order operations, fingerprint analysis, and forensic lab procedures.
+
 ---
 
-### ⚡ Quick Snapshot
+# 🚀 Key Projects & Patent Application
 
-| Category | Details |
-| :--- | :--- |
-| **🎓 Education** | B.Tech in Artificial Intelligence & Data Science, V.S.B College of Engineering Technical Campus (CGPA: `8.3`) |
-| **📍 Location** | Tirupur, Tamil Nadu, India |
-| **🏆 Core Milestone** | Patent Applicant for *Intelligent Temperature Forecasting with Swarm-Based LSTM in Big Data Analytics* |
-| **🎯 Focus Areas** | Predictive Machine Learning, Enterprise Data Security, and Low-Level System/IoT Workflows |
+| 🚀 Project / Innovation | 💻 Tech Stack | 🎯 Key Highlights |
+|:------------------------|:-------------:|:------------------|
+| **🔐 Secure Data Encryption & Access Control System** *(Jan 2026)* | `AES-256`, `RBAC`, `MySQL`, `API` | Architected an enterprise-grade file security platform with time-based permissions, cryptographic data shredding, and real-time MySQL logging. |
+| **🤖 Bluetooth RC Assistive Robot for Mobility Aid** *(Nov 2025)* | `Java`, `Bluetooth`, `Hardware UI` | Developed a compact assistive robot with a custom mobile app for elderly users, implementing low-latency signal processing and motor controls. |
+| **📜 Patent Application:** *Intelligent Temperature Forecasting with Swarm-Based LSTM in Big Data Analytics* *(2025)* | `Big Data`, `LSTM`, `Swarm Intelligence` | Formulated predictive architectural forecasting models leveraging swarm-optimized recurrent networks for large-scale environmental tracking. |
 
 ---
 
-### 🛠️ Technical Arsenal
+# 🏆 Honors, Awards & Certifications
 
-```text
-Languages   🔹 Java  🔹 Python  🔹 HTML/CSS
-Databases   🔹 MySQL  🔹 IndexedDB
-Core Skills 🔹 Machine Learning  🔹 Digital Forensics  🔹 AES-256 / RBAC Security  🔹 IoT Bluetooth Protocols
+- 🥇 **1st Place – Paper Presentation** *(Jan 2025)* – Presented *Secure Data Encryption & Access Control System* at Gregorian Institute of Technology, Kangazha, Kottayam, Kerala.
+- 📜 **Patent Application** *(2025)* – *Intelligent Temperature Forecasting with Swarm-Based LSTM in Big Data Analytics*.
+- 🎓 **NPTEL Certifications:** Internet of Things *(2026)* • Cloud Computing *(2025)*.
+- 🤖 **AI Certification:** Artificial Intelligence – Internz Learn Technologies *(2025)*.
+
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+</div>
+
+# 🧩 LeetCode & Competitive Programming
+
+<div align="center">
+<a href="https://leetcode.com/u/Arun_638095" target="_blank">
+<img src="https://leetcard.jacoblin.cool/Arun_638095?theme=tokyonight&font=Fira%20Code&ext=heatmap"/>
+</a>
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+</div>
+
+# 📊 GitHub Analytics & Statistics
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arun1512006-bot&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=arun1512006-bot&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+</div>
+
+# 🌲 GitHub Contribution Graph & Growing Technology Tree
+
+<div align="center">
+
+<!-- Interactive Activity Graph matching tokyonight theme -->
+<a href="https://github.com/arun1512006-bot" target="_blank">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arun1512006-bot&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
+</a>
+
+<br><br>
+
+<!-- Growing Snake Contribution Tree Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+</div>
+
+# 💖 Thanks for Visiting
+
+<div align="center">
+
+⭐ **If you like my profile and work, feel free to ⭐ my repositories and connect with me!**
+
+<br>
+
+<a href="https://github.com/arun1512006-bot?tab=followers">
+<img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="https://www.linkedin.com/in/arun-m-11171a35a">
+<img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<br><br>
+
+## ⭐ Code • Learn • Build • Repeat ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00F5FF,50:7B2FF7,100:FF0080&section=footer"/>
+
+</div>
