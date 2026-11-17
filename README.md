@@ -98,7 +98,7 @@
 <br/>
 
 <!-- LeetCode Stats Card -->
-<img src="https://leetcard.jacoblin.cool/Arun_638095?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/Arun_638095?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCard" />
 
 </div>
 
@@ -108,12 +108,12 @@
 
 <div align="center">
 
-<!-- Interactive Contribution Graph matching the theme -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arun1512006-bot&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<!-- GitHub Profile Summary Card Contribution Line Graph (Matching your screenshot style) -->
+<img src="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Contribution Graph" />
 
 <br/><br/>
 
-<!-- Growing Technology Tree / Snake Animation Widget -->
+<!-- Growing Technology Tree Widget -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/output/github-contribution-grid-snake.svg" />
