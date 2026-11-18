@@ -1,26 +1,34 @@
 <div align="center">
 
+<!-- Live Animated Header with Deep Space / Cyberpunk Gradient Wave & Typing Name -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:0f0c1b,70:1a102f,100:050505&height=220&section=header&animation=fadeIn" width="100%" alt="Live Background Header"/>
+
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=30&duration=3000&pause=1000&color=FFD700,FF4500,00FFFF,FF69B4,00FF7F,9370DB&center=true&vCenter=true&width=800&lines=ARUN+M;AI+%26+Data+Science+Undergraduate;Java+%7C+MySQL+%7C+Machine+Learning+Developer;Cybersecurity+%26+IoT+Enthusiast" alt="Typing SVG" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=arun1512006-bot&label=PROFILE+VIEWS&style=for-the-badge&color=D4AF37"/>
-<img src="https://img.shields.io/github/followers/arun1512006-bot?style=for-the-badge&color=00C853&labelColor=1a1b27"/>
-<img src="https://img.shields.io/github/stars/arun1512006-bot?style=for-the-badge&color=FFC107&labelColor=1a1b27"/>
+<!-- Sleek Glassmorphic Profile Metrics Badges -->
+<img src="https://komarev.com/ghpvc/?username=arun1512006-bot&label=PROFILE+VIEWS&style=for-the-badge&color=D4AF37&labelColor=050505"/>
+<img src="https://img.shields.io/github/followers/arun1512006-bot?style=for-the-badge&color=00F5FF&labelColor=050505"/>
+<img src="https://img.shields.io/github/stars/arun1512006-bot?style=for-the-badge&color=FFD700&labelColor=050505"/>
 
 <br><br>
 
+<!-- Modern Custom Cyber-Styled Social Icons -->
 <a href="mailto:arun1512006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-050505?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
+&nbsp;
 <a href="https://linkedin.com/in/arun-m-11171a35a">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
 </a>
+&nbsp;
 <a href="https://github.com/arun1512006-bot">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+&nbsp;
 <a href="https://leetcode.com/u/Arun_638095">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-050505?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
 </div>
@@ -121,7 +129,10 @@ Leverage software engineering, machine learning, and problem-solving skills in a
   <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
 </div>
 
-# 💖 Thanks for Visiting
+<!-- Live Animated Dynamic Banner Background Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:050505,30:0f0c1b,70:1a102f,100:050505&text=BUILD%20•%20SECURE%20•%20INNOVATE&fontSize=24&fontColor=D4AF37&animation=fadeIn&desc=Thank%20you%20for%20visiting%20my%20GitHub%20profile&descSize=14&descColor=00F5FF" width="100%" alt="Live Theme Banner"/>
+</div>
 
 <div align="center">
 
@@ -130,16 +141,17 @@ Leverage software engineering, machine learning, and problem-solving skills in a
 <br>
 
 <a href="https://github.com/arun1512006-bot?tab=followers">
-  <img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Follow-050505?style=for-the-badge&logo=github&logoColor=D4AF37"/>
 </a>
-<a href="https://linkedin.com/in/arun-m-11171a35a">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+&nbsp;
+<a href="https://www.linkedin.com/in/arun-m-11171a35a">
+  <img src="https://img.shields.io/badge/Connect-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
 </a>
 
 <br><br>
 
 ## ⭐ Code • Learn • Build • Repeat ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:D4AF37,50:000000,100:D4AF37&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050505,40:0f0c1b,80:1a102f,100:D4AF37&section=footer"/>
 
 </div>
