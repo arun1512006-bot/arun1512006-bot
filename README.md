@@ -1,184 +1,219 @@
-<div align="center">
+&#x20;\<div align="center">
 
-<!-- Live Animated Header with Deep Space / Cyberpunk Gradient Wave & Typing Name -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,30:0f0c1b,70:1a102f,100:050505&height=220&section=header&animation=fadeIn" width="100%" alt="Live Background Header"/>
+\<!-- Animated Header -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=30&duration=3000&pause=1000&color=FFD700,FF4500,00FFFF,FF69B4,00FF7F,9370DB&center=true&vCenter=true&width=800&lines=ARUN+M;AI+%26+Data+Science+Undergraduate;Java+%7C+MySQL+%7C+Machine+Learning+Developer;Cybersecurity+%26+IoT+Enthusiast" alt="Typing SVG" />
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:06B6D4&height=220&section=header&text=ARUN%20M&fontSize=65&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI%20%7C%20DATA%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT&descSize=15&descAlignY=58](https://capsule-render.vercel.app/api?type=waving\&color=0:020617,50:1D4ED8,100:06B6D4\&height=220\&section=header\&text=ARUN%20M\&fontSize=65\&fontColor=FFFFFF\&fontAlignY=38\&animation=fadeIn\&desc=AI%20%7C%20DATA%20SCIENCE%20%7C%20SOFTWARE%20DEVELOPMENT\&descSize=15\&descAlignY=58)"/>
 
-<br><br>
+\<!-- Typing Animation -->
 
-<!-- Sleek Glassmorphic Profile Metrics Badges -->
-<img src="https://komarev.com/ghpvc/?username=arun1512006-bot&label=PROFILE+VIEWS&style=for-the-badge&color=D4AF37&labelColor=050505"/>
-<img src="https://img.shields.io/github/followers/arun1512006-bot?style=for-the-badge&color=00F5FF&labelColor=050505"/>
-<img src="https://img.shields.io/github/stars/arun1512006-bot?style=for-the-badge&color=FFD700&labelColor=050505"/>
+\<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+I](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=21\&duration=3000\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=650\&lines=Hello%2C+I)'m+Arun+M+%F0%9F%91%8B;AI+%26+Data+Science+Undergraduate;Java+Developer+%7C+ML+Enthusiast;Building+Ideas+Into+Intelligent+Solutions;Code.+Innovate.+Repeat." alt="Typing SVG"/>
+\</a>
 
-<br><br>
+\<br/>
 
-<!-- Modern Custom Cyber-Styled Social Icons -->
-<a href="mailto:arun1512006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-050505?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/arun-m-11171a35a">
-  <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=0077B5"/>
-</a>
-&nbsp;
-<a href="https://github.com/arun1512006-bot">
-  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-&nbsp;
-<a href="https://leetcode.com/u/Arun_638095">
-  <img src="https://img.shields.io/badge/LeetCode-050505?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
+\<img src="[https://komarev.com/ghpvc/?username=arun1512006-bot&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge](https://komarev.com/ghpvc/?username=arun1512006-bot\&label=PROFILE+VIEWS\&color=0e75b6\&style=for-the-badge)" />
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-</div>
-
-# 👨‍💻 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
-
-<div style="font-family: 'Times New Roman', Times, serif; font-size: 17px;">
-
-## 👋 Hello, I'm Arun M
-
-🎓 **B.Tech Artificial Intelligence & Data Science Undergraduate** (CGPA: **8.3**) at V.S.B College of Engineering Technical Campus.
-
-💻 **AI & Data Modeling Enthusiast** | ☕ **Java Developer** | 🔍 **Digital Forensics & Security Support**
-
-Analytical AI & Data Science undergraduate with hands-on internship experience in data modeling, full-stack web basics, and digital forensic support. Skilled in Java, MySQL, and predictive algorithms.
-
-### 🚀 Focus Areas & Core Competencies
-- 🤖 Predictive Machine Learning & Data Modeling
-- ☕ Java & MySQL Backend Systems
-- 🔐 Enterprise Security & AES-256 / RBAC
-- 🌐 Full-Stack Web Development Basics
-
-### 🎯 Career Goal
-Leverage software engineering, machine learning, and problem-solving skills in a dynamic technical role.
-
-</div>
+\</div>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-</div>
+## 👨‍💻 About Me
 
-# 🛠 Tech Toolbox
+\<img align="right" width="180" src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" />
 
-<div align="center">
+Hey there! I'm **Arun M**, an enthusiastic B.Tech Artificial Intelligence & Data Science undergraduate at **V.S.B College of Engineering Technical Campus**.
 
-### 💻 Programming Languages & Databases
-<img src="https://skillicons.dev/icons?i=java,python,mysql,html,css" />
+I'm passionate about transforming ideas into practical technology through programming, intelligent systems, machine learning, and software development.
 
-<br><br>
+- 🎓 **Education:** B.Tech – Artificial Intelligence & Data Science
+- 📊 **CGPA:** 8.3
+- 🤖 **Interest:** Artificial Intelligence & Machine Learning
+- ☕ **Programming:** Java & Python
+- 🔐 **Exploring:** Cybersecurity & Digital Forensics
+- 🗄️ **Database:** MySQL
+- 🚀 **Currently:** Learning, building and exploring innovative projects.
 
-### ⚙️ Technologies & Domains
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+> "I don't just write code. I build solutions that make technology meaningful."
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-</div>
-
-# 📊 GitHub Activity & Live Analytics
-
-<div align="center">
-
-<!-- Side-by-Side Core Stats & Top Languages Cards -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=arun1512006-bot&show_icons=true&bg_color=050505&title_color=D4AF37&text_color=FFFFFF&icon_color=00F5FF&border_color=D4AF37&hide_border=false" width="100%" alt="GitHub Stats"/>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun1512006-bot&layout=compact&bg_color=050505&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37&hide_border=false" width="100%" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Contribution Streak Tracker -->
-<img src="https://streak-stats.demolab.com/?user=arun1512006-bot&background=050505&border=D4AF37&stroke=D4AF37&ring=00F5FF&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=D4AF37&sideLabels=00F5FF&dates=AAAAAA" width="85%" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-</div>
-
-# 💼 Professional Experience & Internships
-
-<div style="font-family: 'Times New Roman', Times, serif; font-size: 17px;">
-
-- **Artificial Intelligence Intern** | *Emglitz Technologies, Coimbatore* `(Feb 2024 – Mar 2024)`
-  - Developed and deployed machine learning models using Python on real-world datasets.
-  - Executed end-to-end ML workflows, including data preprocessing, model training, and evaluation using performance metrics.
-- **Law & Order & Forensic Support Intern** | *D1 Ramanathapuram Police Station & Mobile Forensic Science Lab, Coimbatore* `(Feb 2025 – Mar 2025)`
-  - Completed internship in Law & Order operations, fingerprint analysis, and forensic lab procedures.
-
-</div>
+\<br clear="right"/>
 
 ---
 
-# 🚀 Key Projects & Patent Application
+## 🧠 My Technical Universe
 
-<div style="font-family: 'Times New Roman', Times, serif; font-size: 17px;">
+### 💻 Programming Languages
 
-| 🚀 Project / Innovation | 💻 Tech Stack | 🎯 Key Highlights |
-| :--- | :---: | :--- |
-| **🔐 Secure Data Encryption & Access Control System** *(Jan 2026)* | `AES-256`, `RBAC`, `MySQL`, `API` | Architected an enterprise-grade file security platform with time-based permissions, cryptographic data shredding, and real-time MySQL logging. |
-| **🤖 Bluetooth RC Assistive Robot for Mobility Aid** *(Nov 2025)* | `Java`, `Bluetooth`, `Hardware UI` | Developed a compact assistive robot with a custom mobile app for elderly users, implementing low-latency signal processing and motor controls. |
-| **📜 Patent Application:** *Intelligent Temperature Forecasting with Swarm-Based LSTM in Big Data Analytics* *(2025)* | `Big Data`, `LSTM`, `Swarm Intelligence` | Formulated predictive architectural forecasting models leveraging swarm-optimized recurrent networks for large-scale environmental tracking. |
+\<p align="left">
+\<img src="[https://skillicons.dev/icons?i=java,python,cpp,c](https://skillicons.dev/icons?i=java,python,cpp,c)" />
+\</p>
 
-</div>
+### 🌐 Web & Database Technologies
+
+\<p align="left">
+\<img src="[https://skillicons.dev/icons?i=html,css,js,mysql](https://skillicons.dev/icons?i=html,css,js,mysql)" />
+\</p>
+
+### ⚙️ Tools & Development
+
+\<p align="left">
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode,linux](https://skillicons.dev/icons?i=git,github,vscode,linux)" />
+\</p>
+
+### 🔬 Areas of Interest
+
+`Artificial Intelligence` `Machine Learning` `Data Modeling` `Predictive Analytics` `AES-256 Encryption` `Role-Based Access Control` `Digital Forensics` `Big Data`
 
 ---
 
-# 🏆 Honors, Awards & Certifications
+## 🚀 Featured Projects
 
-<div style="font-family: 'Times New Roman', Times, serif; font-size: 17px;">
+\<table>
+\<tr>
+\<td width="50%">
 
-- 🥇 **1st Place – Paper Presentation** *(Jan 2025)* – Presented *Secure Data Encryption & Access Control System* at Gregorian Institute of Technology, Kangazha, Kottayam, Kerala.
-- 📜 **Patent Application** *(2025)* – *Intelligent Temperature Forecasting with Swarm-Based LSTM in Big Data Analytics*.
-- 🎓 **NPTEL Certifications:** Internet of Things *(2026)* • Cloud Computing *(2025)*.
-- 🤖 **AI Certification:** Artificial Intelligence – Internz Learn Technologies *(2025)*.
+### 🌱 AI Agriculture Doctor
 
-</div>
+An AI-oriented agriculture project focused on exploring intelligent solutions for agricultural problems.
+
+**Technology:** Python
+
+\<a href="[https://github.com/arun1512006-bot/Ai-Agriculture-Doctor](https://github.com/arun1512006-bot/Ai-Agriculture-Doctor)">View Repository →\</a>
+
+\</td>
+\<td width="50%">
+
+### 🔐 Secure Data Encryption & Access Control
+
+A security-focused system designed with AES-256 encryption, role-based access control, time-based permissions and MySQL logging.
+
+**Technology:** AES-256 · RBAC · MySQL · API
+
+\</td>
+\</tr>
+\<tr>
+\<td width="50%">
+
+### 🤖 Bluetooth RC Assistive Robot
+
+A Bluetooth-controlled assistive mobility robot concept designed to support elderly users through mobile control and motor operations.
+
+**Technology:** Java · Bluetooth · Hardware UI
+
+\</td>
+\<td width="50%">
+
+### 🌡️ Intelligent Temperature Forecasting
+
+Patent application involving swarm-optimized LSTM architecture for temperature forecasting and big data analytics.
+
+**Technology:** LSTM · Swarm Intelligence · Big Data
+
+\</td>
+\</tr>
+\</table>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
-</div>
+## 💼 Professional Experience
 
-<!-- Live Animated Dynamic Banner Background Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:050505,30:0f0c1b,70:1a102f,100:050505&text=BUILD%20•%20SECURE%20•%20INNOVATE&fontSize=24&fontColor=D4AF37&animation=fadeIn&desc=Thank%20you%20for%20visiting%20my%20GitHub%20profile&descSize=14&descColor=00F5FF" width="100%" alt="Live Theme Banner"/>
-</div>
+**🤖 Artificial Intelligence Intern**
 
-<div align="center">
+Emglitz Technologies | February 2024 – March 2024
 
-⭐ **If you like my profile and work, feel free to ⭐ my repositories and connect with me!**
+- Developed machine learning models using Python.
+- Performed data preprocessing and model training.
+- Evaluated predictive models using performance metrics.
 
-<br>
+**🔍 Law & Order & Forensic Support Intern**
 
-<a href="https://github.com/arun1512006-bot?tab=followers">
-  <img src="https://img.shields.io/badge/Follow-050505?style=for-the-badge&logo=github&logoColor=D4AF37"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/arun-m-11171a35a">
-  <img src="https://img.shields.io/badge/Connect-050505?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
-</a>
+D1 Ramanathapuram Police Station & Mobile Forensic Science Lab | February 2025 – March 2025
 
-<br><br>
+- Explored fingerprint analysis.
+- Gained exposure to forensic laboratory procedures.
+- Learned about law enforcement and digital forensic support.
 
-## ⭐ Code • Learn • Build • Repeat ⭐
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:050505,40:0f0c1b,80:1a102f,100:D4AF37&section=footer"/>
+## 🏆 Achievements & Certifications
 
-</div>
+- 🥇 **1st Place – Paper Presentation (2025)** — Secure Data Encryption & Access Control System.
+- 📜 **Patent Application (2025)** — Intelligent Temperature Forecasting with Swarm-Based LSTM in Big Data Analytics.
+- ☁️ **NPTEL – Cloud Computing (2025).**
+- 🌐 **NPTEL – Internet of Things (2026).**
+- 🤖 **Artificial Intelligence Certification** – Internz Learn Technologies (2025).
+
+---
+
+## 📊 GitHub Analytics
+
+\<div align="center">
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=arun1512006-bot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=06B6D4&text_color=FFFFFF](https://github-readme-stats.vercel.app/api?username=arun1512006-bot\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=020617\&title_color=38BDF8\&icon_color=06B6D4\&text_color=FFFFFF)" />
+
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=arun1512006-bot&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=FFFFFF](https://github-readme-stats.vercel.app/api/top-langs/?username=arun1512006-bot\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=020617\&title_color=38BDF8\&text_color=FFFFFF)" />
+
+\<img width="70%" src="[https://streak-stats.demolab.com?user=arun1512006-bot&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8](https://streak-stats.demolab.com?user=arun1512006-bot\&theme=tokyonight\&hide_border=true\&background=020617\&ring=38BDF8\&fire=06B6D4\&currStreakLabel=38BDF8)" />
+
+\</div>
+
+---
+
+## 🐍 Watch My Contributions Come Alive!
+
+\<div align="center">
+
+\<img src="[https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/output/github-contribution-grid-snake-dark.svg)" alt="Animated GitHub Contribution Snake" width="100%"/>
+
+\</div>
+
+---
+
+## 📈 Contribution Activity
+
+\<div align="center">
+
+\<img src="[https://github-readme-activity-graph.vercel.app/graph?username=arun1512006-bot&bg_color=020617&color=38BDF8&line=06B6D4&point=FFFFFF&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=arun1512006-bot\&bg_color=020617\&color=38BDF8\&line=06B6D4\&point=FFFFFF\&area=true\&hide_border=true)" width="100%"/>
+
+\</div>
+
+---
+
+## 🎯 My Developer Philosophy
+
+```text
+while (alive) {
+    learn();
+    build();
+    innovate();
+    solveProblems();
+    repeat();
+}
+```
+
+- 🔭 Building practical software and AI-based solutions.
+- 🌱 Continuously improving problem-solving and development skills.
+- 💡 Exploring the intersection of AI, data and cybersecurity.
+- 🚀 Turning innovative ideas into real-world applications.
+
+---
+
+## 🤝 Let's Connect
+
+\<div align="center">
+
+\<a href="[https://github.com/arun1512006-bot](https://github.com/arun1512006-bot)"> \<img src="[https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)"/> \</a>
+
+\<a href="mailto\:arun1512006\@gmail.com"> \<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)"/> \</a>
+
+\<br/>\<br/>
+
+### ⭐ Thanks for visiting my profile!
+
+**If you like my work, consider giving my repositories a star!**
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1D4ED8,100:06B6D4&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:020617,50:1D4ED8,100:06B6D4\&height=120\&section=footer)"/>
+
+\<sub>© 2026 Arun M | Designed with passion, powered by curiosity.\</sub>
+
+\</div>
