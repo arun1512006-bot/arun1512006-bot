@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00F5FF,50:7B2FF7,100:FF0080&height=180&section=header&text=ARUN%20M&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=AI%20&%20Data%20Science%20Undergraduate%20|%20Java%20&%20ML%20Developer&descSize=16&descAlignY=60" width="100%" alt="Banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=34&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=ARUN+M;AI+%26+Data+Science+Undergraduate;Java+%7C+MySQL+%7C+Machine+Learning+Developer;Cybersecurity+%26+IoT+Enthusiast" alt="Typing SVG" />
 
 <br><br>
 
@@ -31,6 +31,8 @@
 
 # 👨‍💻 About Me
 
+<div style="font-family: 'Times New Roman', Times, serif; font-size: 16px;">
+
 ## 👋 Hello, I'm Arun M
 
 🎓 **B.Tech Artificial Intelligence & Data Science Undergraduate** (CGPA: **8.3**) at V.S.B College of Engineering Technical Campus.
@@ -47,6 +49,8 @@ Analytical AI & Data Science undergraduate with hands-on internship experience i
 
 ### 🎯 Career Goal
 Leverage software engineering, machine learning, and problem-solving skills in a dynamic technical role.
+
+</div>
 
 ---
 
@@ -74,11 +78,15 @@ Leverage software engineering, machine learning, and problem-solving skills in a
 
 # 💼 Professional Experience & Internships
 
+<div style="font-family: 'Times New Roman', Times, serif;">
+
 - **Artificial Intelligence Intern** | *Emglitz Technologies, Coimbatore* `(Feb 2024 – Mar 2024)`
   - Developed and deployed machine learning models using Python on real-world datasets.
   - Executed end-to-end ML workflows, including data preprocessing, model training, and evaluation using performance metrics.
 - **Law & Order & Forensic Support Intern** | *D1 Ramanathapuram Police Station & Mobile Forensic Science Lab, Coimbatore* `(Feb 2025 – Mar 2025)`
   - Completed internship in Law & Order operations, fingerprint analysis, and forensic lab procedures.
+
+</div>
 
 ---
 
@@ -94,10 +102,14 @@ Leverage software engineering, machine learning, and problem-solving skills in a
 
 # 🏆 Honors, Awards & Certifications
 
+<div style="font-family: 'Times New Roman', Times, serif;">
+
 - 🥇 **1st Place – Paper Presentation** *(Jan 2025)* – Presented *Secure Data Encryption & Access Control System* at Gregorian Institute of Technology, Kangazha, Kottayam, Kerala.
 - 📜 **Patent Application** *(2025)* – *Intelligent Temperature Forecasting with Swarm-Based LSTM in Big Data Analytics*.
 - 🎓 **NPTEL Certifications:** Internet of Things *(2026)* • Cloud Computing *(2025)*.
 - 🤖 **AI Certification:** Artificial Intelligence – Internz Learn Technologies *(2025)*.
+
+</div>
 
 ---
 
@@ -116,7 +128,7 @@ Leverage software engineering, machine learning, and problem-solving skills in a
 <a href="https://github.com/arun1512006-bot?tab=followers">
   <img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://www.linkedin.com/in/arun-m-11171a35a">
+<a href="https://linkedin.com/in/arun-m-11171a35a">
   <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
