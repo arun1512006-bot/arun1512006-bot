@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- NOTE: Upload your cybersecurity padlock image into your repo as assets/banner.png (or drag-and-drop it directly into the GitHub README editor to get its user-attachments URL) -->
-<img src="./assets/banner.png" width="100%" height="320" style="object-fit: cover; border-radius: 12px;" alt="Banner"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=34&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Arun+M+👋;AI+%26+Data+Science+Undergraduate;Java+%7C+MySQL+%7C+Machine+Learning+Developer;Cybersecurity+%26+IoT+Enthusiast" alt="Typing SVG" />
 
 <br><br>
 
