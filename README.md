@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arun1512006-bot/arun1512006-bot/main/assets/banner.png" width="100%" alt="Banner"/>
+<!-- NOTE: Upload your cybersecurity padlock image into your repo as assets/banner.png (or drag-and-drop it directly into the GitHub README editor to get its user-attachments URL) -->
+<img src="./assets/banner.png" width="100%" height="320" style="object-fit: cover; border-radius: 12px;" alt="Banner"/>
 
 <br><br>
 
@@ -11,29 +12,25 @@
 <br><br>
 
 <a href="mailto:arun1512006@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/arun-m-11171a35a">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/arun1512006-bot">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/Arun_638095">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
 </div>
 
 # 👨‍💻 About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
 
 ## 👋 Hello, I'm Arun M
 
@@ -52,19 +49,10 @@ Analytical AI & Data Science undergraduate with hands-on internship experience i
 ### 🎯 Career Goal
 Leverage software engineering, machine learning, and problem-solving skills in a dynamic technical role.
 
-</td>
-<td width="40%" align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Robot.png" width="220"/>
-<br><br>
-<h3>🤖 Analyze • Build • Secure</h3>
-</td>
-</tr>
-</table>
-
 ---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
 </div>
 
 # 🛠 Tech Toolbox
@@ -82,23 +70,23 @@ Leverage software engineering, machine learning, and problem-solving skills in a
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
 </div>
 
 # 💼 Professional Experience & Internships
 
-*   **Artificial Intelligence Intern** | *Emglitz Technologies, Coimbatore* `(Feb 2024 – Mar 2024)`
-    *   Developed and deployed machine learning models using Python on real-world datasets.
-    *   Executed end-to-end ML workflows, including data preprocessing, model training, and evaluation using performance metrics.
-*   **Law & Order & Forensic Support Intern** | *D1 Ramanathapuram Police Station & Mobile Forensic Science Lab, Coimbatore* `(Feb 2025 – Mar 2025)`
-    *   Completed internship in Law & Order operations, fingerprint analysis, and forensic lab procedures.
+- **Artificial Intelligence Intern** | *Emglitz Technologies, Coimbatore* `(Feb 2024 – Mar 2024)`
+  - Developed and deployed machine learning models using Python on real-world datasets.
+  - Executed end-to-end ML workflows, including data preprocessing, model training, and evaluation using performance metrics.
+- **Law & Order & Forensic Support Intern** | *D1 Ramanathapuram Police Station & Mobile Forensic Science Lab, Coimbatore* `(Feb 2025 – Mar 2025)`
+  - Completed internship in Law & Order operations, fingerprint analysis, and forensic lab procedures.
 
 ---
 
 # 🚀 Key Projects & Patent Application
 
 | 🚀 Project / Innovation | 💻 Tech Stack | 🎯 Key Highlights |
-|:------------------------|:-------------:|:------------------|
+| :--- | :---: | :--- |
 | **🔐 Secure Data Encryption & Access Control System** *(Jan 2026)* | `AES-256`, `RBAC`, `MySQL`, `API` | Architected an enterprise-grade file security platform with time-based permissions, cryptographic data shredding, and real-time MySQL logging. |
 | **🤖 Bluetooth RC Assistive Robot for Mobility Aid** *(Nov 2025)* | `Java`, `Bluetooth`, `Hardware UI` | Developed a compact assistive robot with a custom mobile app for elderly users, implementing low-latency signal processing and motor controls. |
 | **📜 Patent Application:** *Intelligent Temperature Forecasting with Swarm-Based LSTM in Big Data Analytics* *(2025)* | `Big Data`, `LSTM`, `Swarm Intelligence` | Formulated predictive architectural forecasting models leveraging swarm-optimized recurrent networks for large-scale environmental tracking. |
@@ -115,7 +103,7 @@ Leverage software engineering, machine learning, and problem-solving skills in a
 ---
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-2b8f4e74-7d0b-43e1-baf4-8cf4c4f1d4d7.gif" width="100%">
 </div>
 
 # 💖 Thanks for Visiting
@@ -127,10 +115,10 @@ Leverage software engineering, machine learning, and problem-solving skills in a
 <br>
 
 <a href="https://github.com/arun1512006-bot?tab=followers">
-<img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Follow-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 <a href="https://www.linkedin.com/in/arun-m-11171a35a">
-<img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <br><br>
