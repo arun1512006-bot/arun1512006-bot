@@ -142,7 +142,7 @@ I enjoy exploring how intelligent systems and software solutions can solve real-
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=arun1512006-bot&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8" alt="GitHub Streak" />
+<img width="70%" src="https://streak-stats.demolab.com?user=arun1512006&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=06B6D4&currStreakLabel=38BDF8" alt="GitHub Streak" />
 
 </div>
 
